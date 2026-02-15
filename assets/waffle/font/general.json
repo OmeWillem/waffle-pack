@@ -1,0 +1,16 @@
+{
+    "providers": [ 
+        {"type": "bitmap","file": "waffle:font/logo.png", "ascent": 50, "height": 100, "chars": ["\uE001"]},
+        {"type": "bitmap","file": "waffle:font/tags/eigenaar.png", "ascent": 7, "height": 7, "chars": ["\uE002"]},
+        {"type": "bitmap","file": "waffle:font/tags/speler.png", "ascent": 7, "height": 7, "chars": ["\uE003"]},
+
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uE100": 1,
+                "\uE101": -1
+            }
+        }
+    ]
+}
