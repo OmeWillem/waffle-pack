@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "waffle:menu/background"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:block/anvil"
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}

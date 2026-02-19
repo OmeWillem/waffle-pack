@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/oak_sign"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "waffle:menu/background"
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}
